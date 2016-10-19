@@ -1,3 +1,5 @@
+package bestellwesen;
+
 /**
  * Eine Position der Bestellung.
  */

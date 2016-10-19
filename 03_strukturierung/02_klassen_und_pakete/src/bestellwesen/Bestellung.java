@@ -1,3 +1,7 @@
+package bestellwesen;
+
+import stammdaten.Kunde;
+
 /**
  * Eine Bestellung.
  */
